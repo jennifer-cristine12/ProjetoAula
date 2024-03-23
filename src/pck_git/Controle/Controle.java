@@ -27,7 +27,8 @@ public class Controle {
 		cadastro = Scn.next();
 		cadastro.toLowerCase();
 		if(cadastro.equals("s")) {
-			pessoa.toString();
+			System.out.println(pessoa.toString());
+			
 		}
 	}
 	
