@@ -42,7 +42,7 @@ public class Modelo {
 	}
 	@Override
 	public String toString() {
-		return "Modelo [codigo=" + codigo + ", nome=" + nome + ", email=" + email + ", senha=" + hideSenha() + "]";
+		return "Usuario [codigo=" + getCodigo() + ", nome=" + getNome() + ", email=" + getEmail() + ", senha=" + hideSenha() + "]";
 	}
 	
 
