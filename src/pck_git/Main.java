@@ -4,10 +4,10 @@ import pck_git.Controle.*;
 
 public class Main {
 
-	public static void main(String[] args) {
-		
-		Controle.controlePessoa();
-		
-	}
+    public static void main(String[] args) {
+
+        Controle.controlePessoa();
+
+    }
 
 }
